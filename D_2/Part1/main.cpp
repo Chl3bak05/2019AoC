@@ -26,7 +26,7 @@ int main(int argc, char const *argv[])
         }
         index += 4;
     }
-    //cout << tab[0];
+    cout << tab[0];
 
     return 0;
 }
